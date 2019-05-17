@@ -1,0 +1,22 @@
+#field{
+    width: 320px;
+    height: 320px;
+    box-sizing: content-box;
+    border: 1px solid black;
+}
+.chess-block{
+    width: 40px;
+    height: 40px;
+    float:left;
+
+}
+
+.bg-black{
+    background: #525252;
+}
+.active {
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}
